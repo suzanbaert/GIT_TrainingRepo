@@ -9,4 +9,3 @@
 #went back successfully without being on a detached head
 #but obvoulsy got merge conflicts when trying to merge with base
 
-#redoing 10h commmit
