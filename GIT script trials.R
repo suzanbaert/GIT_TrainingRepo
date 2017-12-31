@@ -5,8 +5,5 @@
 #commit 2
 #commiting something else pure nonsense
 
-
-#commit 3
-5+7
-
-
+#committing some more
+#will be sixth commit ven though i have lots 45 and 5 in detached head
