@@ -4,3 +4,5 @@
 
 #commit 2
 #commiting something else pure nonsense
+
+#went back successfully without being on a detached head
