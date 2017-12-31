@@ -5,5 +5,6 @@
 #commit 2
 #commiting something else pure nonsense
 
-#committing some more
-#will be sixth commit ven though i have lots 45 and 5 in detached head
+
+#went back successfully without being on a detached head
+#but obvoulsy got merge conflicts when trying to merge with base
