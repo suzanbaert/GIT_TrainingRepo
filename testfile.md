@@ -2,6 +2,7 @@ some bogus info
 making some changes upon request
 
 
+new change is not in here
 
 Four months ago on Nov 3rd, I made a Github account. But I would only start to actually start using it as of Nov 26th. Since day however I have made daily use of GitHub and later as well of GitLab, the equivalent we use at work. It's
 
