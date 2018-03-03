@@ -11,3 +11,7 @@ Added - part 2.
 That didn't work well. Try again.
 Here is somethign i'm adding part 1
 And now amending part 2
+
+
+That worked better.  
+Here's a trial viva soft commit part 1  
