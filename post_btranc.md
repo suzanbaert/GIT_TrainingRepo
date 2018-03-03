@@ -7,3 +7,7 @@ adding some mroe
 
 I'm adding here something to test later a commit amend - part 1.
 Added - part 2.
+
+That didn't work well. Try again.
+Here is somethign i'm adding part 1
+And now amending part 2
