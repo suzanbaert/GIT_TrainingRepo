@@ -6,3 +6,5 @@ text text text
 I'm writing some text I want to be reverted later.
 
 I'm adding something here with a typo.
+
+adding something to test git fetch
