@@ -15,3 +15,4 @@ And now amending part 2
 
 That worked better.  
 Here's a trial viva soft commit part 1  
+and part 2
