@@ -1,14 +1,14 @@
 #Commit 1
-#I"m putting some stuff in here for initial commit
+I"m putting some stuff in here for initial commit
 
 
 #commit 2
-#commiting something else pure nonsense
+commiting something else pure nonsense
 
 
-#went back successfully without being on a detached head
-#but obvoulsy got merge conflicts when trying to merge with base
+went back successfully without being on a detached head
+but obvoulsy got merge conflicts when trying to merge with base
 
-#redoing commit 10
+redoing commit 10
 
 adding something else
